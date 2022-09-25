@@ -1,0 +1,25 @@
+body {
+    font-family: "Cerebri-Sans", Helvetica, Arial, sans-serif;
+  }
+  .weather-app {
+    border: 1px solid #4db3a9;
+    padding: 16px;
+    margin: 20px auto;
+    border-radius: 10px;
+    max-width: 600px;
+  }
+  
+  .temperature {
+    color: #4db3a9;
+    font-weight: 400;
+    line-height: 1;
+  }
+  .weather-app {
+    font-family: "Cerebri-Sans", Helvetica, Arial, sans-serif;
+    background: #4db3a9;
+    border-radius: 16px;
+    box-shadow: 0px 30px 50px #4db3a9;
+    padding: 40px;
+    color: white;
+  }
+  
